@@ -1,5 +1,13 @@
 
 
+<!-- TOC -->
+
+1. [需求](#需求)
+2. [步骤](#步骤)
+3. [参考](#参考)
+4. [更多](#更多)
+
+<!-- /TOC -->
 
 # 设置git-bash-作为默认的命令行终端
 
@@ -9,9 +17,13 @@
 
 
 
+<a id="markdown-需求" name="需求"></a>
+
 ## 需求
 
 设置git bash 作为默认的命令行终端
+
+<a id="markdown-步骤" name="步骤"></a>
 
 ## 步骤
 
@@ -36,12 +48,16 @@
 
 
 
+<a id="markdown-参考" name="参考"></a>
+
 ## 参考
 
 - https://neutrondev.com/vs-code-integrate-git-bash-default-terminal/
 - https://www.shanebart.com/set-default-vscode-terminal/
 
 
+
+<a id="markdown-更多" name="更多"></a>
 
 ## 更多
 
