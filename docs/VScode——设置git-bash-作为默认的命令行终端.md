@@ -40,7 +40,7 @@
 
 1. 打开命令面板（`Ctrl + Shift + P `) 或  `设置`>`Command Platte...`
 2. 输入 `open settings`，选择` Preference: Open User Settings ( JSON )`
-3. 在打开的编辑文件中填入内容
+3. 在打开的编辑文件中填入内容（可以自行搜索教程）
 
 
 
