@@ -1,5 +1,5 @@
 on:
-  deployment:
+  push:
     branches: [main]
     paths: ['docs/index.md']
 
